@@ -1,6 +1,7 @@
 # This is the main configuration file of your Dancer2 app
 # env-related settings should go to environments/$env.yml
 # all the settings in this file will be loaded at Dancer's startup.
+title: "Another admin trying to be usefull" 
 
 # Your application's name
 appname: "dancer2"
